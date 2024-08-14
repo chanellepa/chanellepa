@@ -1,4 +1,9 @@
-## Hi there 👋
+## hi, im chanelle :--)
+
+- 💻 I'm currently enrolled in APCSA
+- 🦈 I like birds and sharks
+- 💙 I'm a fan of pokemon, drawing, and rock climbing
+- 💕 I love catherine and oma
 
 <!--
 **chanellepa/chanellepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
